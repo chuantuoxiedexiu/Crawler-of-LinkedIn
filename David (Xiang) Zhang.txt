@@ -1,0 +1,234 @@
+{
+    "skills": [
+        "Automotive", 
+        "Business Strategy", 
+        "Management", 
+        "Product Development", 
+        "Manufacturing", 
+        "Strategic Planning", 
+        "Project Management", 
+        "Negotiation", 
+        "Investments", 
+        "Sales Management", 
+        "Telematics", 
+        "Electric Vehicles", 
+        "Simulations", 
+        "CAD", 
+        "Consulting", 
+        "Navigation &amp; Map", 
+        "Industry analyst", 
+        "Internet car", 
+        "Driverless cars", 
+        "Intelligent vehicle", 
+        "Hybrid vehicles", 
+        "Plud-in hybrid vehicles", 
+        "Insurance telematics", 
+        "heavy duty engine", 
+        "Automotive powertrain", 
+        "New energy vehicles", 
+        "Drive Test", 
+        "Business Development", 
+        "E-Business", 
+        "Autonomous driving", 
+        "Connected car", 
+        "Automated driving", 
+        "Future car", 
+        "In-Vehicle Infotainment", 
+        "Auto eco-system", 
+        "Car sharing economy", 
+        "Advanced Driver...", 
+        "Intelligent...", 
+        "Merge &amp; Aquisition", 
+        "E-commence", 
+        "Self-driving", 
+        "Business Develop", 
+        "CarPlay/Android...", 
+        "P2P rental car", 
+        "Economist", 
+        "Columnist", 
+        "Automotive electronics", 
+        "Technical Writers", 
+        "Market Research", 
+        "Intelligent..."
+    ], 
+    "industry": "Automotive", 
+    "posts": [
+        {
+            "time": "September 26, 2016", 
+            "title": "\u672c\u5468\u4e09\u6211\u5c06\u5728\u676d\u5dde\u5206\u4eab\u5145\u7535\u6869\u4e3b\u9898\u6f14\u8bb2"
+        }, 
+        {
+            "time": "September 19, 2016", 
+            "title": "\u672c\u5468\u516d\u6211\u5c06\u5728\u6210\u90fd\u5206\u4eab\u5145\u7535\u6869\u6f14\u8bb2"
+        }, 
+        {
+            "time": "September 9, 2016", 
+            "title": "My mobile number in Russia"
+        }
+    ], 
+    "summary": "1) Industry analyst: 10+ years working experience in auto industry and technical consultant with the scope of passenger car, commercial vehicles, new energy vehicles and auto parts, with 150+ published papers as 1st author. ", 
+    "current": [
+        "Senior Consultant at Neusoft Corporation"
+    ], 
+    "follower": "0", 
+    "experiences": [
+        {
+            "company": "Neusoft Corporation", 
+            "title": "Senior Consultant"
+        }, 
+        {
+            "company": "gasgoo.com", 
+            "title": "Independent Automotive Industry Analyst Consultant"
+        }, 
+        {
+            "title": "Consultant and Project Manager for Automotive Electronics"
+        }, 
+        {
+            "company": "Weichai Power Co., Ltd", 
+            "title": "Senior Manager for Strategic, Planning and International Alliance of Heavy Duty Commercial Vehicles"
+        }, 
+        {
+            "company": "Saic Motor Co., Ltd.", 
+            "title": "Leader Engineer for Electric, Hybrid &amp; Fuelcell Bus Products Planning"
+        }, 
+        {
+            "company": "Haima Investment Group Co., Ltd", 
+            "title": "Expert,  Project Manager for Electric &amp; Hybrid Car Projects"
+        }, 
+        {
+            "title": "Product Development Manager for Minibus Powertrain System"
+        }, 
+        {
+            "company": "Hefei University of Technology", 
+            "title": "Post-doctoral Research Follower for Hybrid Car System Simulation"
+        }
+    ], 
+    "location": "no", 
+    "lanuages": [
+        "Chinese", 
+        "English"
+    ], 
+    "influencer": "no", 
+    "following": {
+        "schools": [
+            {
+                "location": "China", 
+                "title": "China Computer Correspondence College"
+            }, 
+            {
+                "location": "Wuhan, Hubei, China", 
+                "title": "Wuhan University of Technology"
+            }, 
+            {
+                "location": "Hefei, Anhui, China", 
+                "title": "Hefei University of Technology"
+            }, 
+            {
+                "location": "Greater Boston Area", 
+                "title": "Massachusetts Institute of Technology"
+            }
+        ], 
+        "news": [
+            {
+                "followers": "14,371,741 followers", 
+                "title": "Social Media"
+            }, 
+            {
+                "followers": "13,643,706 followers", 
+                "title": "Economy"
+            }, 
+            {
+                "followers": "6,214,249 followers", 
+                "title": "Recruiting &amp; Hiring"
+            }, 
+            {
+                "followers": "5,921,873 followers", 
+                "title": "Your Career"
+            }, 
+            {
+                "followers": "28,490,071 followers", 
+                "title": "\u804c\u573a\u9886\u8896"
+            }, 
+            {
+                "followers": "28,258,450 followers", 
+                "title": "\u524d\u77bb\u5a92\u4f53"
+            }, 
+            {
+                "followers": "28,254,313 followers", 
+                "title": "\u81ea\u5a92\u4f53"
+            }, 
+            {
+                "followers": "18,081,717 followers", 
+                "title": "Technology"
+            }, 
+            {
+                "followers": "1,302,237 followers", 
+                "title": "Pulse"
+            }
+        ], 
+        "companies": [
+            {
+                "industry": "Automotive", 
+                "title": "Volvo Car Group"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "SAIC Motor Corporation Limited"
+            }, 
+            {
+                "industry": "Staffing and Recruiting", 
+                "title": "Hays"
+            }, 
+            {
+                "industry": "Information Services", 
+                "title": "Wind Information"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "Mobileye"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "SAIC Motor"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "Honda Automobile (China) Co.Ltd"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "The Goodyear Tire &amp; Rubber Company"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "BMW Group"
+            }, 
+            {
+                "industry": "Automotive", 
+                "title": "EV-Charge America"
+            }
+        ]
+    }, 
+    "fullname": "David (Xiang) Zhang", 
+    "education": [
+        {
+            "school": "Wuhan University of Technology", 
+            "major": "Marine Engineering", 
+            "time": "1997-2002"
+        }, 
+        {
+            "major": "Mechanical Engineering", 
+            "time": "1994-1997"
+        }, 
+        {
+            "school": "China Computer Correspondence College", 
+            "major": "Computer Application", 
+            "time": "1990-1993"
+        }, 
+        {
+            "school": "Hubei Province Yingshan County No.1 High School", 
+            "major": "Computer Software Engineering", 
+            "time": "1986-1989"
+        }
+    ]
+}
