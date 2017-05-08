@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 from selenium import webdriver
 import urllib2
-from pyvirtualdisplay import Display
 #import requests
 import time
 import re
