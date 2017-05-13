@@ -34,7 +34,6 @@ def draw_data(content):
         if dd:
             print dd
             profile['location']=dd
-
     #工业界
     profile['industry']='no'
     result_industry=re.findall("(<dd class=\"industry\">.*?</dd>)",content)
@@ -45,8 +44,6 @@ def draw_data(content):
         if dd:
             print dd
             profile['industry']=dd
-
-
 
     #粉丝数
     profile['follower']='0'
@@ -233,10 +230,6 @@ def zhuyao():
                 result.append(each_new)
     print 'success'
 
-
-
 if __name__=="__main__":
-    #display = Display(visible=0, size=(1024, 768))
-    #display.start()
     zhuyao()
-    #display.stop()
+
