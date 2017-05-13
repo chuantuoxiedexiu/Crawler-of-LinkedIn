@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 from selenium import webdriver
 import urllib2
-#import requests
 import time
 import re
 
@@ -228,8 +227,7 @@ def zhuyao():
         for each_new in new_result:
             if each_new not in result:
                 result.append(each_new)
-    print 'success'
-
+   
 if __name__=="__main__":
     zhuyao()
 
