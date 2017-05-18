@@ -3,7 +3,6 @@ from selenium import webdriver
 import urllib2
 import time
 import re
-
 def draw_data(content):
     profile={}
     profile['influencer']='no'
@@ -27,7 +26,6 @@ def draw_data(content):
     profile['location']='no'
     result_location=re.findall("(<span class=\"locality\">.*?</span>)",content)
     if len(result_location)==1:
-        #print result_location[0]
         dr=re.compile(r'<[^>]+>',re.S)
         dd=dr.sub('',result_location[0])
         if dd:
@@ -37,7 +35,6 @@ def draw_data(content):
     profile['industry']='no'
     result_industry=re.findall("(<dd class=\"industry\">.*?</dd>)",content)
     if len(result_industry)==1:
-        #print result_location[0]
         dr=re.compile(r'<[^>]+>',re.S)
         dd=dr.sub('',result_industry[0])
         if dd:
