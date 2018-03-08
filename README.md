@@ -4,4 +4,3 @@ By Leverage the project, we can crawler an LinkedIn user's whole profile informa
 2.If you are the user's friend, then you can crawl this user's friend list.
 3.Taking into account the security of user privacy, I have anonymized user data in example file.
 4.If you have any question, please connect me
-
