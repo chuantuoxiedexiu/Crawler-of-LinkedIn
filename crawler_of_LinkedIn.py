@@ -3,6 +3,7 @@ from selenium import webdriver
 import urllib2
 import time
 import re
+
 def draw_data(content):
     profile={}
     profile['influencer']='no'
