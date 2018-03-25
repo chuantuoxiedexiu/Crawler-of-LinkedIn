@@ -10,7 +10,7 @@ def draw_data(content):
     if len(result_influencer) ==1:
         print 'yes'
         profile['influencer']='yes'
-    #基本资料
+    #basic information
     profile['fullname']='no'
     result_fullname=re.findall("class=\"full-name\">([^<]+)<",content)
     if len(result_fullname)==1:
