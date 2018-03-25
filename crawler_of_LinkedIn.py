@@ -16,7 +16,7 @@ def draw_data(content):
     if len(result_fullname)==1:
         print result_fullname[0]
         profile['fullname']=result_fullname[0]
-    #职位
+    #position
     profile['current']='no'
     result_title=re.findall("class=\"title\">([^<]+)<",content)
     if len(result_title)==1:
