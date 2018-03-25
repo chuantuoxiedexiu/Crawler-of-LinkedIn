@@ -31,7 +31,7 @@ def draw_data(content):
         if dd:
             print dd
             profile['location']=dd
-    #工业界
+    #industry
     profile['industry']='no'
     result_industry=re.findall("(<dd class=\"industry\">.*?</dd>)",content)
     if len(result_industry)==1:
@@ -41,7 +41,7 @@ def draw_data(content):
             print dd
             profile['industry']=dd
 
-    #粉丝数
+    #fans number
     profile['follower']='0'
     result_follower=re.findall("follower-count\"><strong>([^<]+)</strong>",content)
     if result_follower:
