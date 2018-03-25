@@ -22,7 +22,7 @@ def draw_data(content):
     if len(result_title)==1:
         print result_title[0]
         profile['current']=result_title
-    #地理位置
+    #Location
     profile['location']='no'
     result_location=re.findall("(<span class=\"locality\">.*?</span>)",content)
     if len(result_location)==1:
