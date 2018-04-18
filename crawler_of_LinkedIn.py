@@ -191,7 +191,7 @@ def draw_data(content):
     else :
         return []
 
-def zhuyao():
+def main_crawler():
     driver=webdriver.Firefox()
     driver.get('https://www.linkedin.com/uas/login?fromSignIn=true&trk=uno-reg-guest-home')
     print driver.title
@@ -226,5 +226,5 @@ def zhuyao():
                 result.append(each_new)
    
 if __name__=="__main__":
-    zhuyao()
+    main_crawler()
 
